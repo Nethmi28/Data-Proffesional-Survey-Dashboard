@@ -43,17 +43,14 @@ To ensure the data was accurate and readable, I followed a rigorous ETL (Extract
 4. Interactive Filters (Slicers)
      Users can filter the entire dashboard by Country, Education Level, or Current Job Title to see   specific sub-trends.
 
-💡 Key Insights
-    
-     Tool Dominance: Despite many new tools, Python remains the most widely used language among the 630 respondents.
+### 🏁 Final Conclusion<br>
 
-     Industry Entry: A significant portion of the workforce is entering from Tech backgrounds proving the field's accessibility.
-
-🏁 Final Conclusion
 Based on the data, individuals looking to maximize their career value should focus on mastering Python and aiming for Data Analyst,Data Engineer,Data Scientist,Data arachitect roles. The dashboard proves that the data profession is diverse, with a wide range of entry points and salary scales depending on technical specialization.
 
-📸 Dashboard Preview  - https://github.com/Nethmi28/Data-Proffesional-Survey-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png  
+### 📸 Dashboard Preview  -
+https://github.com/Nethmi28/Data-Proffesional-Survey-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png  
 <br>
+
 <img width="1323" height="745" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/ccef8b93-9238-44e3-8977-edb5f597e563" />
 
 
